@@ -1,9 +1,10 @@
 # Customer-Churn-Prediction-with-Apache-Spark
 Project Title: Customer Churn Prediction with Apache Spark
 
-Objective: Build a customer churn prediction model using Apache Spark to identify customers at risk of leaving a subscription-based service (e.g., a mobile app, streaming service, or e-commerce platform).
+#Objective:
+Build a customer churn prediction model using Apache Spark to identify customers at risk of leaving a subscription-based service (e.g., a mobile app, streaming service, or e-commerce platform).
 
-Project Description:
+#Project Description:
 
 Data Preparation:
 
@@ -23,11 +24,13 @@ Model Evaluation:
 
 Evaluate the model's performance using appropriate metrics like accuracy, precision, recall, and F1-score.
 Visualize the results using tools like Matplotlib or Seaborn.
-Deployment:
+
+#Deployment:
 
 Deploy the trained churn prediction model in a Spark-based environment for batch processing.
 Create a script that takes new customer data as input and predicts the likelihood of churn.
-Benefits:
+
+#Benefits:
 
 Identify customers at risk of churning early, allowing for targeted retention efforts.
 Gain insights into the factors that contribute to customer churn, which can inform business strategies.
